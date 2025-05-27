@@ -49,7 +49,7 @@
 
 👋🏼 **Rizki Ramadhan Zafitra**  
 🌐 [rizzxiters.com](https://rizzxiters.com)  
-🎓 Mahasiswa Media Based Computer Science @ Berliner Hochschule für Technik  
+🎓 Siswa Pengembangan Perangkat Lunak SMK CITRA NEGARA DEPOJ
 📺 YouTube: [rizzxiters](https://www.youtube.com/@rizzxiters)
 
 ## 📜 Lisensi
