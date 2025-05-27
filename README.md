@@ -1,5 +1,5 @@
 
-<img src="github_banner.jpg" alt="GitHub Banner" width="100%" />
+<img src="assets/image/banner.j[g" alt="GitHub Banner" width="100%" />
 
 # 🛍️ UMKM Toko Baju — Web App by Rizki Ramadhan Zafitra
 
