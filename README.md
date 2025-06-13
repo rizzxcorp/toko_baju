@@ -1,14 +1,4 @@
-Berikut adalah `README.md` versi lengkap dan diperbarui, dengan tambahan:
 
-* **GitHub Trophy milik kamu**
-* **Style/format dari kamu**
-* **Trophy dan snake animation** diletakkan **di bawah struktur folder**, seperti permintaanmu
-
-Langsung copy dan paste ke file `README.md` kamu:
-
----
-
-````markdown
 <img src="banner.jpg" alt="GitHub Banner" width="100%" />
 
 # 🛍️ Toko Baju - Online Clothing Store
