@@ -1,4 +1,4 @@
-<img src="github_banner.jpg" alt="GitHub Banner" width="100%" />
+<img src="banner.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Rizki Ramadhan Zafitra, a Indonesian Web Developer 👋🏼:
 🛜 currently working on my own https://rizzxiters.com And Game Developer<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer and Game Developer since 2022 <br>🎬 just started out with my youtube channel <i>rizzxiters</i>
